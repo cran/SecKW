@@ -7,7 +7,7 @@
 #' @param b B parameter.
 #' @param c C parameter.
 #' @param lambda Lambda parameter.
-#' @return A vector with n observations of the SecantKumaraswamyWeibull distribution.
+#' @return A vector with n observations of the Secant Kumaraswamy Weibull distribution.
 #' @examples
 #' hseckw(1, 1, 1, 1, 1)
 #' hseckw(1, 3, 0.5, 2, 2)

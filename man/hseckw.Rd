@@ -18,7 +18,7 @@ hseckw(x, a, b, c, lambda)
 \item{lambda}{Lambda parameter.}
 }
 \value{
-A vector with n observations of the SecantKumaraswamyWeibull distribution.
+A vector with n observations of the Secant Kumaraswamy Weibull distribution.
 }
 \description{
 The hazard rate function of the Secant Kumaraswamy Weibull probability distribution.

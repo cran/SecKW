@@ -2,7 +2,7 @@
 % Please edit documentation in R/qseckw.R
 \name{qseckw}
 \alias{qseckw}
-\title{The cumulative function of the SecantKumaraswamyWeibull probability distribution.}
+\title{The cumulative function of the Secant Kumaraswamy Weibull probability distribution.}
 \usage{
 qseckw(p, a, b, c, lambda, lower = TRUE, log.p = FALSE)
 }
@@ -25,7 +25,7 @@ qseckw(p, a, b, c, lambda, lower = TRUE, log.p = FALSE)
 A vector with n observations of the Secant Kumaraswamy Weibull distribution.
 }
 \description{
-The cumulative function of the SecantKumaraswamyWeibull probability distribution.
+The cumulative function of the Secant Kumaraswamy Weibull probability distribution.
 }
 \examples{
 qseckw(0.5, 1, 1, 1, 1, TRUE, FALSE)

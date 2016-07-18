@@ -2,7 +2,7 @@
 % Please edit documentation in R/rseckw.R
 \name{rseckw}
 \alias{rseckw}
-\title{Generates random deviates from a SecantKumaraswamyWeibull probability distribution.}
+\title{Generates random deviates from a Secant Kumaraswamy Weibull probability distribution.}
 \usage{
 rseckw(n, a, b, c, lambda)
 }
@@ -18,10 +18,10 @@ rseckw(n, a, b, c, lambda)
 \item{lambda}{Lambda parameter.}
 }
 \value{
-A vector with n observations of the SecantKumaraswamyWeibull distribution.
+A vector with n observations of the Secant Kumaraswamy Weibull distribution.
 }
 \description{
-Generates random deviates from a SecantKumaraswamyWeibull probability distribution.
+Generates random deviates from a Secant Kumaraswamy Weibull probability distribution.
 }
 \examples{
 rseckw(1000, 1, 1, 1, 1)

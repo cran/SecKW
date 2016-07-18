@@ -1,4 +1,4 @@
-#' The survival function of the SecantKumaraswamyWeibull probability distribution.
+#' The survival function of the Secant Kumaraswamy Weibull probability distribution.
 #' @export
 #' @importFrom pracma sec
 #'
@@ -7,7 +7,7 @@
 #' @param b B parameter.
 #' @param c C parameter.
 #' @param lambda Lambda parameter.
-#' @return A vector with n observations of the SecantKumaraswamyWeibull distribution.
+#' @return A vector with n observations of the Secant Kumaraswamy Weibull distribution.
 #' @examples
 #' sseckw(1, 1, 1, 1, 1)
 #' sseckw(1, 3, 0.5, 2, 2)

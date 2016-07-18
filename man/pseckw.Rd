@@ -2,7 +2,7 @@
 % Please edit documentation in R/pseckw.R
 \name{pseckw}
 \alias{pseckw}
-\title{The cumulative function of the SecantKumaraswamyWeibull probability distribution.}
+\title{The cumulative function of the Secant Kumaraswamy Weibull probability distribution.}
 \usage{
 pseckw(q, a, b, c, lambda, lower = TRUE, log.p = FALSE)
 }
@@ -25,7 +25,7 @@ pseckw(q, a, b, c, lambda, lower = TRUE, log.p = FALSE)
 A vector with n observations of the Secant Kumaraswamy Weibull distribution.
 }
 \description{
-The cumulative function of the SecantKumaraswamyWeibull probability distribution.
+The cumulative function of the Secant Kumaraswamy Weibull probability distribution.
 }
 \examples{
 pseckw(0.5, 1, 1, 1, 1,TRUE,FALSE)

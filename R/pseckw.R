@@ -1,4 +1,4 @@
-#' The cumulative function of the SecantKumaraswamyWeibull probability distribution.
+#' The cumulative function of the Secant Kumaraswamy Weibull probability distribution.
 #' @export
 #' @importFrom pracma sec
 #'

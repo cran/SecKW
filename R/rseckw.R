@@ -1,4 +1,4 @@
-#' Generates random deviates from a SecantKumaraswamyWeibull probability distribution.
+#' Generates random deviates from a Secant Kumaraswamy Weibull probability distribution.
 #' @export
 #' @importFrom fdrtool dhalfnorm
 #'
@@ -7,7 +7,7 @@
 #' @param b B parameter.
 #' @param c C parameter.
 #' @param lambda Lambda parameter.
-#' @return A vector with n observations of the SecantKumaraswamyWeibull distribution.
+#' @return A vector with n observations of the Secant Kumaraswamy Weibull distribution.
 #' @examples
 #' rseckw(1000, 1, 1, 1, 1)
 #' rseckw(1000, 2, 2, 1, 1)

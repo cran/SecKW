@@ -2,7 +2,7 @@
 % Please edit documentation in R/sseckw.R
 \name{sseckw}
 \alias{sseckw}
-\title{The survival function of the SecantKumaraswamyWeibull probability distribution.}
+\title{The survival function of the Secant Kumaraswamy Weibull probability distribution.}
 \usage{
 sseckw(x, a, b, c, lambda)
 }
@@ -18,10 +18,10 @@ sseckw(x, a, b, c, lambda)
 \item{lambda}{Lambda parameter.}
 }
 \value{
-A vector with n observations of the SecantKumaraswamyWeibull distribution.
+A vector with n observations of the Secant Kumaraswamy Weibull distribution.
 }
 \description{
-The survival function of the SecantKumaraswamyWeibull probability distribution.
+The survival function of the Secant Kumaraswamy Weibull probability distribution.
 }
 \examples{
 sseckw(1, 1, 1, 1, 1)
